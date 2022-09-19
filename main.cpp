@@ -16,4 +16,7 @@ int* b = new int[N_ELEMENTS];
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "Készen van" << std::endl;
+
     return 0;
